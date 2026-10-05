@@ -1,0 +1,22 @@
+References
+
+
+National Center for Biotechnology Information. (n.d.). *Propane*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Propane
+
+National Center for Biotechnology Information. (n.d.). *Ethanol*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol
+
+National Center for Biotechnology Information. (n.d.). *Acetone*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Acetone
+
+National Center for Biotechnology Information. (n.d.). *Acetic acid*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Acetic-Acid
+
+National Center for Biotechnology Information. (n.d.). *Ethyl acetate*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Ethyl-Acetate
+
+National Center for Biotechnology Information. (n.d.). *Cyclohexane*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Cyclohexane
+
+National Center for Biotechnology Information. (n.d.). *Cyclohexanone*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Cyclohexanone
+
+National Center for Biotechnology Information. (n.d.). *Acetaminophen*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Acetaminophen
+
+National Center for Biotechnology Information. (n.d.). *Aspirin*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Acetylsalicylic-acid
+
+National Center for Biotechnology Information. (n.d.). *Caffeine*. PubChem. Retrieved October 5, 2026, from https://pubchem.ncbi.nlm.nih.gov/compound/Caffeine
